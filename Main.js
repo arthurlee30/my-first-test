@@ -1,3 +1,5 @@
+/*这是version2测试*/
+
 /** 初始化游戏 */
 LInit(60, "mygame", 390, 580, main);
 
